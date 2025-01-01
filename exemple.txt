@@ -1,0 +1,5 @@
+La statistique ou les statistiques1 est la discipline qui étudie
+des phénomènes à travers la collecte de données,leur traitement, leur analyse, l'interprétation des résultats 
+et leur présentation afin de rendre ces données compréhensibles par tous.Cest à la fois une branche des
+mathématiques appliquées2, une méthode et un ensemble de techniques.La statistique est un domaine des mathématiques et de 
+plus en plus, elle fait partie de ce que l'on appelle aujourd'hui la science des données (en anglais : Data Science).
